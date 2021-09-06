@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #e6c0c0;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -239,13 +239,13 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #a3d6cc;
 }
 
 .bg-color--subcolor {
   background-color: #719bad;
 }
-
+#a3d6cc
 .bg-color--gray {
   background-color: #e6e6e6;
 }
@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: #a3d6cc;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #e6c0c0;
 }
 
 .section-title--keycolorlight .section-title__stage {
