@@ -441,7 +441,7 @@ button {
 }
 
 .err-message {
-  color: #c1272d;
+  color: #e65c61;
   font-size: 18px;
   text-align: center;
 }
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #a3d6cc;
+  color: #622d18;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
