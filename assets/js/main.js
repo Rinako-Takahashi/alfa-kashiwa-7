@@ -34,7 +34,7 @@ const app = Vue.createApp({
           q1: 'bad',
           // q2: 'くくく',
           // q3: 'けけけ',           
-        },
+        }
       },
 
       /* それぞれの問題が正解かどうか
@@ -58,7 +58,7 @@ const app = Vue.createApp({
           false, // 4-1
           // false, // 4-2
           // false, // 4-3
-        ],
+        ]
       },
 
       /* ステージの問題が全て正解かどうか */
