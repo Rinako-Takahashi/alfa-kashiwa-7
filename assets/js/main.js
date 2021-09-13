@@ -58,7 +58,7 @@ const app = Vue.createApp({
           false, // 4-1
           // false, // 4-2
           // false, // 4-3
-        ]
+        ],
       },
 
       /* ステージの問題が全て正解かどうか */
